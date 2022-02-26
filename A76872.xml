@@ -1,0 +1,369 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A bloudy fight in Hartford-shire, between the Parliaments forces, and the Club Royalists, on Tuesday last; shewing the manner of their engagement, and how the adverse party fell upon the Parliamenteers, to revenge the bloud of the late King. With the particulars thereof, and a narrative of the barbarous actions that were then put in execution, by slitting their fingers, the palm of their hands, and most cruelly wounding them, even from the crown of the head, (almost) to the sole of the foot. Also a bloudy fight at Bristol, between the butchers, and the Lord Lieutenant Cromwels forces designed for Ireland; the successe thereof; and joyfull newes from the siege at Dublin, and the King of Scots his fleet at Kingsale. Ordered, that the aforesaid particulars, be printed and published without interruption or molestation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76872</idno>
+            <idno type="STC">Wing B3245</idno>
+            <idno type="STC">Thomason E565_13</idno>
+            <idno type="STC">ESTC R206134</idno>
+            <idno type="EEBO-CITATION">99865313</idno>
+            <idno type="PROQUEST">99865313</idno>
+            <idno type="VID">117552</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76872)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117552)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E565[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A bloudy fight in Hartford-shire, between the Parliaments forces, and the Club Royalists, on Tuesday last; shewing the manner of their engagement, and how the adverse party fell upon the Parliamenteers, to revenge the bloud of the late King. With the particulars thereof, and a narrative of the barbarous actions that were then put in execution, by slitting their fingers, the palm of their hands, and most cruelly wounding them, even from the crown of the head, (almost) to the sole of the foot. Also a bloudy fight at Bristol, between the butchers, and the Lord Lieutenant Cromwels forces designed for Ireland; the successe thereof; and joyfull newes from the siege at Dublin, and the King of Scots his fleet at Kingsale. Ordered, that the aforesaid particulars, be printed and published without interruption or molestation.</title>
+               </titleStmt>
+               <extent>[2] 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno MDCXLIX [1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 19.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117552:1" rendition="simple:additions"/>
+            <p>A BLOVDY FIGHT IN Hartford-shire, BETWEEN The Parliaments Forces, and the Club Royaliſts, on <hi>Tueſ<g ref="char:EOLhyphen"/>day</hi> laſt; ſhewing the manner of their engagement, and how the adverſe party fell upon the Par<g ref="char:EOLhyphen"/>liamenteers, to revenge the bloud of the late KING.</p>
+            <p>
+               <hi>WITH</hi> The particulars thereof, and a Narrative of the barbarous Actions that were then put in execution, by ſlitting their fingers, the palm of their hands, and moſt cruelly wounding them, even from the Crown of the head, (almoſt) to the ſole of the foot.</p>
+            <p>
+               <hi>ALSO</hi> A bloudy Fight at <hi>Bristol,</hi> between the Butchers, and the Lord Lieutenant <hi>Cromwels</hi> forces deſigned for <hi>Ireland<g ref="char:punc">▪</g>
+               </hi> the ſucceſſe thereof; and joyfull Newes from the ſiege at <hi>Dublin,</hi> and the King of <hi>Scots</hi> his Fleet at <hi>Kingſale.</hi> 
+               <add>July 19.</add>
+            </p>
+            <p>ORdered, That the aforeſaid particulars, be printed and publiſhed without interruption or moleſtation.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>R.W. Anno</hi> MDCXLIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:117552:2"/>
+            <pb n="1" facs="tcp:117552:2"/>
+            <head>A BLOUDY FIGHT IN Hartfordſhire on Tueſday night laſt, between the Parlia<g ref="char:EOLhyphen"/>ments forces, and the Club Royaliſt; ſhe win the manner how they fell upon them, and diſar<g ref="char:EOLhyphen"/>med them, &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe Royaliſts in theſe parts begin to kick at Autho<g ref="char:EOLhyphen"/>rity, and ſay, they will neither yeeld obedience, nor be ſubject to the preſent Authority at Weſtminſter, but takes upon them the impudence to revile and ſpeak ve<g ref="char:EOLhyphen"/>ry high againſt their preſent actings and proceedings, to the great diſhonour and prejudice thereof, leaving no meanes unaſſayed, that may prove inſtrumentall to alienate and withdraw the hearts of the people from their due obedi<g ref="char:EOLhyphen"/>ence,
+<pb n="2" facs="tcp:117552:3"/>as appears by their late inſurrections and co<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>i<g ref="char:EOLhyphen"/>ons within the town of Royſton; the manner thus:</p>
+            <p>A party of Commiſſary Generall. <hi>Iretons</hi> Regime<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> foot quartering in the adjacent Villages, many of the Of<g ref="char:EOLhyphen"/>ficers and Sould<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers came to the foreſaid town to receive Recruits, and to beat up the Drum for more Voluntiers the Inhabitants being ſomewhat troubled thereat, reſol<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed to make oppoſition, and immediatly gathered to a head, which being done, about 150 marched to the Market place, fell upon the Parliaments party, cut and mangled them excee<g ref="char:EOLhyphen"/>dingly, laid many for dead upon the place, broke their Hal<g ref="char:EOLhyphen"/>berts, Armes and Drums, wounded Captain <hi>Steward</hi> the Commander in chief, Lieutenant <hi>Smith;</hi> and ſome other; and in a moſt barbarous and inhumane manner, ſlit their fingers, the palm of their hands, cut their wriſts, and woun<g ref="char:EOLhyphen"/>ded them even from the Crown of the head (almoſt) to the ſole of the foot, calling them Rebels and Traytors for <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>thering of their King, and ſaying. <hi>That they would make Rogues of them before they had clode with 'em.</hi>
+            </p>
+            <p>The Conflict being ended, theſe bloud-thirſty Villain<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> departed, leaving ſome galant ſpirits gaſping on the ground and their inveteracy was ſo great, that if they did but ſee any of them ſtir, preſently they made at them again with Club; and other Weapons, vowing to leave not a man of them alive.</p>
+            <p>But it pleaſed divine providence, ſo to work for their deliverance, that upon the receipt of an allatum, that a par<g ref="char:EOLhyphen"/>ty were coming to reſcue them, the bloud thirſty Maligoes began to fly, ſome betaking themſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ves one way, and ſome another; ſo that the well aff<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cted of the town haſtned to them, and carryed them out of the <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>et to the George Inn, where they immediatly ſent for a Chyrurgion to ſtanch
+<pb n="3" facs="tcp:117552:3"/>the bleeding of their wounds, and to dreſſe their bruiſed Sores, which was ſpeedily effectuated, and all ſoveraigne meanes uſed for their recovery; ſo that (bleſſed be God) the Captain, and the reſt, are in a reaſonable condition, and its hoped, they have undergone the greateſt miſery of their preſent affliction.</p>
+            <p>Moſt of the chief Confederates of this horrid Act are eſcaped and fled; but its hoped by diligent inquiſition af<g ref="char:EOLhyphen"/>ter them, they may be taken and brought bock to taſt of the true adminiſtration of juſtice, and made exemplary for the future to all ſucceeding Ages.</p>
+            <closer>
+               <dateline>Royſton <date>18. July, 1649.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>By Letters from <hi>Bristol</hi> it is advertized, that the Inhabi<g ref="char:EOLhyphen"/>tants in thoſe parts ſhew themſelves very forward to pro<g ref="char:EOLhyphen"/>pagate the Work in hand, for the relief of bleeding Dublin, the Citizens having alſo declared a great willingneſſe to ex<g ref="char:EOLhyphen"/>pedite the ſame, and to accommodate and furniſh the Lord Litutenant with ſuch neceſſaries, as ſhall become inſtru<g ref="char:EOLhyphen"/>mentall for ſo great and faithfull a patriot and true a per<g ref="char:EOLhyphen"/>nage. The Colours of his Life-guard are black and white, and in his match not far beyond Windſor, a ſhepheards boy eſpying them, ſaid, <hi>perhaps they might be dy'd redde e<g ref="char:EOLhyphen"/>nough before they returned from thence;</hi> who being over-hard he was apprehended, and committed to ſafe cuſtody.</p>
+               <p>Letters from the Navy ſay, that there hath lately hapned ſome diſpute and action between the Parliaments Fleet and the Princes neer Kingſale, and after ſeverall Volleyes, the Parl, Navigators became Victors, and have taken (as is ſaid) the Swallow, and the Blackamore Lady, above one hundred priſoners, and about 30 pieces and Ordnance. It is further ſaid, that the L. <hi>Inchiquin</hi> hath loſt neer upon 200 men at the ſiege of Drogheda.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:117552:4"/>
+            <head>Bloudy Newes from Dublin in Ireland,</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>ON Sunday morning Paſt, a party of the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Ormonds horſe-faced our frontier Guard<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ping a great careering neer the City Walls, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> making ſeverall bold attempts within Piſtol <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t of our Line, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>purs and Scollees, which contin ue for the ſpace of half at hour; till at the laſt Capt. <hi>Cambray</hi> (Com<g ref="char:EOLhyphen"/>mander in chief of the new Fort) made a falſey out with a party of horſe and foot; who placed the Muſchetiers in <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n obſcure trench, for an Ambuſcado; he himſelf being the Coy, for the calling in and enſnating of the adverſe p<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> but upon his firſt advance towards them with his hor<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> found it a Work very full of difficulty, by reaſon that they had uſed the like point of policy: However, he reſolved <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o diſ<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e the place, and thereupon divided his horſe (being 6<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in number into two parties, he himſelf commanding t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e one, and C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rnet Jackſon the other; Capt. <hi>Cambray</hi> char<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the Van of the Enemies Forlorn, Cornet <hi>Jackſon</hi> flank<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them and upon their firſt charge exchanged ground, w<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the loſſe of three then on both ſides; but upon their pre<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eeling, both parties received each other with a ſecon<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deſperate Onſet, who with great courage &amp; reſolution <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their ſtations, diſputing the place with great gallantry; but at laſt our men being overpowred (by their coming on are freſh ſupply of horſe) were forced to embrace in honor<g ref="char:EOLhyphen"/>able retreat; the enemy purſued to the very turn pikes where they were ſoon welcomed by the ſons of <hi>Mars,</hi> born from the mouth of the Canon and Muſquet, at which <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ley, 7 of them were forced to yeeld obedience, and one man having his head ſeparated from his ſhoulders by a Dra<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſhot, his right hand man being ſomewhat ſtartled thereof,
+<pb n="5" facs="tcp:117552:4"/>immediatly reply'd, <hi>The Div<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l's in theſe Rou<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d-<gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>king off heads.</hi> Wherupon the enemy ſoon deſerted engage<g ref="char:EOLhyphen"/>ment, leaving dead and wounded upon the place about <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of our party five ſlain and two wounded.</p>
+            <p>Since the enemies receipt of the intellige<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of the Lord Lieutenant <hi>Crammels</hi> deſignment for this bleeding City, they have ſomewhat awakened us with ſtronger allarms, and (as we hear) have entred into Proteſtation, to <hi>live and <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and fall together and to fight it out to the laſt <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> and that upon receipt of the foreſaid intelligence, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> called a Council of Officers, at the head quarters neer <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, the reſult was, whether they ſhould prepare for <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be<g ref="char:EOLunhyphen"/>fore his Lordſhip<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ing, or whether they ſhould <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>gi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the City, ſtreighten other Gar<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſons, take in what they could and then randezvouz and draw into a Body, and <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him battell at his landing; Upon mature deliberation there<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, it was unanimoſly declared by moſt of that Popiſh and Pre<g ref="char:EOLhyphen"/>laticall faction, That if he ſet footing there they world ſigh then, in the mean time they would uſe their <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>juſt <gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>vours for the reducing of thoſe Garriſons which the Par<g ref="char:EOLhyphen"/>liament had in poſſeſſion.</p>
+            <p>But the thing that our Souldiery are moſt doubtfull and dubious of, is that they fear the enemy will not give them a field upon the addition all forces landing, but that they wil rather betake themſelves to the Bogs and Woods.</p>
+            <p>And although we cannot but repreſent ourſelves in a <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ry ſad condition without timely relief <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> yet <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> exceedingly rejoyce at the gallantry of <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Col. <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; our Governour, under ſuch a ſtate, in his <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> on <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Lord Inchiquin, the ſum whereof to <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p>
+               <hi>My Lord,</hi> As for that conference by your Lordſhip<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow propounded and deſired, it cannot be in <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:117552:5"/>eſpacially in matters of this conſequence, and in times <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuch debatings muſt needs be dangerous, as being ſubject <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whatſoever conſtructions and miſconſtructions alſo. But <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> well am I ſatisfied in the juſtice of my cauſe (where<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> the Lords bleſſing hath dwelt viſibly, as I truſt it doth <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I am fixed to my juſt principles, whence by letters and d<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>courſes I am not to be removed; and I wiſh heartily your Lordſhip had done ſo likewiſe.</p>
+            <p>Your Sword hath been (I confeſſe) proſperous, bu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> re<g ref="char:EOLhyphen"/>member, my Lord, the cauſe in which you then appr<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> the ſame with this now by where maintained, againſt th<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> bloudy Rebels.</p>
+            <p>But now is your Lordſhip with them moſt unhappily joyned, to the admiration of thoſe who formerly knew your Lordſhips profeſſions, &amp;c.</p>
+            <p>Our Governour is very vigilant, and reſolved not to ſur<g ref="char:EOLhyphen"/>render upon any conditions. By the next I ſhall impart my ſelf more fully.</p>
+            <closer>
+               <dateline>Dublin <date>14. July, 1649.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>By an Expreſſe from <hi>Bristoll</hi> it is further advertized, th<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a little before the arrivall of the Lord Lieutenant <hi>Crom<gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                  </hi> ſome differences aroſe between the Butchers, and a party <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Parliaments forces deſigned for <hi>Ireland;</hi> the man<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> thus: A great Company of Butchers having appoint<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> meeting at the Red Lyon in the high ſtreet, to make merry in the middeſt thereof, they began to drink healths to <hi>Ch<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> the ſecond, and the Marq. of <hi>Ormond;</hi> and being over hear<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by ſome ſouldiers which were in the houſe, they ſoon <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<g ref="char:EOLhyphen"/>quainted others therewith, and coming to the door deman<g ref="char:EOLhyphen"/>ded entrance; but being denied, forced their paſſage in, the Buthchers received them, diſputed the place, &amp; after a ſhart Conflict, timely aſſiſtance coming in, the buſineſſe was ap<g ref="char:EOLhyphen"/>peaſed, with the loſſe of two men, and ſome few wounde<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
